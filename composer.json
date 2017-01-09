@@ -17,6 +17,9 @@
     },
     "require": {
         "php": ">=5.4.0",
-        "centraldesktop/protobuf-php": "0.6.*"
+        "centraldesktop/protobuf-php": "1.0.*"
+    },
+    "require-dev": {
+        "symfony/console"    : "3.*"
     }
 }
